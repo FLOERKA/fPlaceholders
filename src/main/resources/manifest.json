@@ -1,0 +1,9 @@
+{
+  "Group": "ru.floerka",
+  "Name": "fPlaceholders",
+  "Version": "1.0.0",
+  "Description": "A Hytale server mod",
+  "Authors": [{"Name": "floerka"}],
+  "Main": "ru.floerka.placeholders.PluginMain",
+  "LoadOrder": "POSTWORLD"
+}
